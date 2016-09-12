@@ -11,7 +11,7 @@ subtitle: 'an inls 161 student'
 #    note: for root path use empty string e.g. '' - do NOT include trailing slash e.g. /
 
 path:  '/jekyll-starter-theme'
-url:   'http://ldinkins.github.io/jekyll-starter-theme'
+url:   'https://ldinkins.github.io/jekyll-starter-theme'
 
 
 #########################
